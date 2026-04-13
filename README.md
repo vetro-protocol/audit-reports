@@ -4,4 +4,4 @@ This repository contains audit reports for Vetro.
 
 ## Reports
 
-[Vetrp Protocol](Vetro_protocol/)
+[Vetro Protocol](Vetro_protocol/)
